@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGP_Model.a CMakeFiles/GP_Model.dir/GP_Model.cpp.o CMakeFiles/GP_Model.dir/kernel.cpp.o
+/usr/bin/ranlib libGP_Model.a

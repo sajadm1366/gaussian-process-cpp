@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMaths.a CMakeFiles/Maths.dir/linalg.cpp.o CMakeFiles/Maths.dir/alglibinternal.cpp.o CMakeFiles/Maths.dir/alglibmisc.cpp.o CMakeFiles/Maths.dir/specialfunctions.cpp.o CMakeFiles/Maths.dir/statistics.cpp.o CMakeFiles/Maths.dir/ap.cpp.o CMakeFiles/Maths.dir/grad_decent.cpp.o
+/usr/bin/ranlib libMaths.a

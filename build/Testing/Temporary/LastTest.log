@@ -1,0 +1,18 @@
+Start testing: Jul 10 19:03 CEST
+----------------------------------------------------------
+1/1 Testing: test_funcs
+1/1 Test: test_funcs
+Command: "/home/sajad/projects/GP_cpp/build/test/test_funcs"
+Directory: /home/sajad/projects/GP_cpp/build/test
+"test_funcs" start time: Jul 10 19:03 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_funcs" end time: Jul 10 19:03 CEST
+"test_funcs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 10 19:03 CEST

@@ -1,0 +1,15 @@
+add_library(Maths
+	    linalg.cpp
+	    linalg.h
+            alglibinternal.cpp
+           target_link_directories alglibinternal.h
+	     alglibmisc.h
+	     alglibmisc.cpp
+	     specialfunctions.cpp
+	     specialfunctions.h
+	     statistics.cpp
+	     statistics.h
+	     ap.cpp
+	     ap.h)
+
+target_link_directories(Maths PUBLIC .)
